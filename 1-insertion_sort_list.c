@@ -2,8 +2,8 @@
 
 /**
  * swap - swap
- * @cur: current
- * @nx: next
+ * @up: current
+ * @dwn: next
  * Return: none
  */
 
